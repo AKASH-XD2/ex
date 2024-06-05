@@ -3,7 +3,7 @@
 # TEAM DARK FORCE - 71
 #__________________| IMPORT |__________________#
 from os import path
-requests import,random,uuid,string,hashlib,json
+from os,requests,import,random,uuid,string,hashlib,json
 from os import path
 import os,uuid,base64,requests,zlib,httpx,time,platform,datetime
 from time import localtime as lt
